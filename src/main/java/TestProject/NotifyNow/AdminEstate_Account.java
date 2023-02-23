@@ -124,7 +124,7 @@ public class AdminEstate_Account extends BaseClass{
 	   // Submit the page
 		WebElement Submit = driver.findElement(By.xpath("//button[text()='Update']"));
 		Submit.click();																
-		Thread.sleep(2000);  
+		Thread.sleep(3000);  
 		
 	}
 
